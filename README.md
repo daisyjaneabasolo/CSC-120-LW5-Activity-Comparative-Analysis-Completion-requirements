@@ -1,5 +1,6 @@
 # CSC-120-LW5-Activity-Comparative-Analysis-Completion-requirements
 
+This is Google Collab link
 https://colab.research.google.com/drive/1_UhFkzEUMezZLb6dawyqj39eo5h1AYT1?usp=sharing
 
 ---
@@ -20,7 +21,6 @@ Students MUST create a model comparison based on the 3 sample models used:
 ---
 
 ## GUIDE QUESTIONS (Student Explanation & Reflection)
----
 ## A. Model Performance
 1. Which pre-trained model achieved the highest accuracy? Why?
 2. Which model had the lowest performance? What could be the reason?
