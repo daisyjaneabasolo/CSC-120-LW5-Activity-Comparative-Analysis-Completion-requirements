@@ -15,7 +15,7 @@ Students MUST create a model comparison based on the 3 sample models used:
 | Model from Teachable Machine | ~0.05 | ~3.00 | ~0.05 | ~2.90 | ~0.00 | ~0.00 | ~0.00 | ~0.50 |
 | Your 1st Model (DenseNet121) | 0.55 | 1.51 | 0.69 | 1.23 | 0.65–0.72 | 0.62–0.68 | 0.63–0.70 | ~0.85 |
 | Your 2nd Model (NASNetMobile) | 0.51 | 1.61 | 0.58 | 1.46 | 0.55–0.62 | 0.53–0.58 | 0.54–0.60 | ~0.78 |
-| Enhancement (Transfer Learning + Augmentation) | ↑ vs baseline | ↓ vs baseline | ↑ vs baseline | ↓ vs baseline |  |  |  |  |
+| Enhancement (Transfer Learning + Augmentation) | Training accuracy became higher than baseline | Training loss became lower than baseline | Testing accuracy became higher than baseline | Testing loss became lower than baseline | Precision improved | Recall improved | F1‑Score improved | ROC AUC improved |
 | Your 3rd Model (Final/Best Model, Xception) | ~0.57 | ~1.47 | ~0.63–0.65 | ~1.36 | 0.60–0.68 | 0.58–0.64 | 0.59–0.66 | ~0.82 |
 
 ## GUIDE QUESTIONS (Student Explanation & Reflection)
