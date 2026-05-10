@@ -1,7 +1,7 @@
 # CSC-120-LW5-Activity-Comparative-Analysis-Completion-requirements
 
 This is Google Collab link
-https://colab.research.google.com/drive/1_UhFkzEUMezZLb6dawyqj39eo5h1AYT1?usp=sharing
+(https://colab.research.google.com/drive/1du_gzIQTeibbpod3hXQ5Wx-4useJABek?usp=sharing)
 
 ---
 ## PART 12: Performance Comparison Table
