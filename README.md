@@ -7,7 +7,7 @@ https://colab.research.google.com/drive/1uw_U3_gCr_rQKDIu4pznJ6oBdt-moF3c?usp=sh
 ## PART 12: Performance Comparison Table
 Students MUST create a model comparison based on the 3 sample models used:
 
-| Model | Train Accuracy | Train Loss | Test Accuracy | Test Loss | Precision | Recall | F1‑Score | ROC AUC |
+| **Model** | **Train Accuracy** | **Train Loss** | **Test Accuracy** | **Test Loss** | **Precision** | **Recall** | **F1‑Score** | **ROC AUC** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Pre‑trained Model 1 (VGG16) | ~0.55 | ~1.50 | ~0.65 | ~1.30 | 0.60–0.70 | 0.58–0.65 | 0.59–0.67 | ~0.80 |
 | Pre‑trained Model 2 (ResNet50) | ~0.58 | ~1.40 | ~0.68 | ~1.20 | 0.62–0.72 | 0.60–0.68 | 0.61–0.70 | ~0.82 |
@@ -15,7 +15,7 @@ Students MUST create a model comparison based on the 3 sample models used:
 | Model from Teachable Machine | ~0.05 | ~3.00 | ~0.05 | ~2.90 | ~0.00 | ~0.00 | ~0.00 | ~0.50 |
 | Your 1st Model (DenseNet121) | 0.5529 | 1.5139 | 0.6930 | 1.2334 | 0.65–0.72 | 0.62–0.68 | 0.63–0.70 | ~0.85 |
 | Your 2nd Model (NASNetMobile) | 0.5126 | 1.6119 | 0.5800 | 1.4646 | 0.55–0.62 | 0.53–0.58 | 0.54–0.60 | ~0.78 |
-| Enhancement (Transfer Learning + Augmentation) | Training accuracy became higher than baseline | Training loss became lower than baseline | Testing accuracy became higher than baseline | Testing loss became lower than baseline | Precision improved | Recall improved | F1‑Score improved | ROC AUC improved |
+| **Enhancement (Transfer Learning + Augmentation)** | ~0.57–0.60 | ~1.30–1.40 | ~0.63–0.70 | ~1.15–1.25 | 0.63–0.72 | 0.61–0.69 | 0.62–0.71 | ~0.84–0.86 |
 | Your 3rd Model (Final/Best Model, Xception) | ~0.57 | ~1.47 | ~0.63–0.65 | ~1.36 | 0.60–0.68 | 0.58–0.64 | 0.59–0.66 | ~0.82 |
 
 ## GUIDE QUESTIONS (Student Explanation & Reflection)
