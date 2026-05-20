@@ -3,6 +3,9 @@
 This is Google Collab link
 https://colab.research.google.com/drive/1uw_U3_gCr_rQKDIu4pznJ6oBdt-moF3c?usp=sharing
 
+This is my model_name.keras 
+https://drive.google.com/file/d/1t7xK8C37XBWBN6Wp7uUjWaEb56Zl7F9W/view?usp=drive_link
+
 ---
 ## PART 12: Performance Comparison Table
 Students MUST create a model comparison based on the 3 sample models used:
